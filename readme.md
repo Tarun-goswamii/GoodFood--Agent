@@ -13,7 +13,7 @@ GoodFoods is a conversational AI that helps users discover restaurants and book 
 - `data/bookings_list.json`: Stored reservations
 - `start.py`: One-command launcher (starts API then UI)
 
-## Sample Converstions
+## Sample Converstions 
 ### Insufficient information
 <img width="1704" height="836" alt="Screenshot 2025-11-02 at 10 04 10 PM" src="https://github.com/user-attachments/assets/5a55ff7e-0088-402e-bda9-5c021c653e5b" />
 
