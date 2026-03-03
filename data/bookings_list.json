@@ -58,5 +58,15 @@
     "reservation_time": "19:00",
     "order_id": "ord006",
     "status": "confirmed"
+  },
+  {
+    "restaurant_id": "r001",
+    "orderer_name": "Rahul Sharma",
+    "orderer_contact": "8847291653",
+    "party_size": 4,
+    "reservation_date": "2026-03-10",
+    "reservation_time": "19:00",
+    "order_id": "ord007",
+    "status": "confirmed"
   }
 ]

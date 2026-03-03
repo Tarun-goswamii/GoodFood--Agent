@@ -48,7 +48,7 @@ def collect_user_console_message() -> dict[str, str]:
     return user_message_formatted
 
 
-def generate_chat_completion(api_key, conversation_history: list, tools: list, model_type='gpt-4o', tool_calling_enabled: bool=False):
+def generate_chat_completion(api_key, conversation_history: list, tools: list, model_type='gpt-3.5-turbo', tool_calling_enabled: bool=False):
     """
     Make API call to AI model with conversation history.
 
